@@ -1,0 +1,61 @@
+<!DOCTYPE  html>
+<html>
+ <head>
+   <title>Adidas</title>
+   <meta charset="UTF-8">
+   <link rel="stylesheet" href="EstiloGaleria.css"
+ </head>
+ <body>
+  <div>
+   <h1>La tienda de Ximena</h1>
+   <ul id="menu">
+    <li><a href="index.html">Inicio</a></li>
+    <li><a href="galeria.html">Galería</a></li>
+    <li><a href="nosotros.html">Nosotros</a></li>
+    <li><a href="contacto.html">Contacto</a></li>
+    <li><a href="novedades.html">Novedades</a></li>
+   </ul>
+  </div>
+  <div>
+   <p style="clear:both;"></p> 
+   <h2>Galería</h2>
+      <h3>Tenis</h3>
+           <div id="Tenis Adidas SuperStar Blanco con negro" class="ficha"><a href="Galeria/adidas1.jpeg"><img src="Galeria/adidas1_mini.png" alt="Tenis Adidas SuperStar Blanco con negro" /></a> 
+                      <p>Tenis Adidas SuperStar Blanco con negro</p> </div>
+           <div id="Tenis Adidas SuperStar Negro con Blanco" class="ficha"><a href="Galeria/adidas2.jpeg"><img src="Galeria/adidas2_mini.png" alt="Tenis Adidas SuperStar Negro con Blanco" /></a>
+                      <p>Tenis Adidas SuperStar Negro con Blanco</p> </div>
+           <div id="Tenis Adidas Superstar Blancos con cordones negros" class="ficha"><a href="Galeria/adidas3.jpeg"><img src="Galeria/adidas3_mini.png" alt="Tenis Adidas Superstar Blancos con cordones negros" /></a>
+                      <p>Tenis Adidas Superstar Blancos con cordones negros</p> </div>
+           <div id="Tenis Adidas Superstar Blancos" class="ficha"><a href="Galeria/adidas4.jpeg"><img src="Galeria/adidas4_mini.png" alt="Tenis Adidas Superstar Blancos" /></a> 
+                      <p>Tenis Adidas Superstar Blancos</p> </div>
+           <div id="Tenis Adidas Campus" class="ficha"><a href="Galeria/adidas5.jpeg"><img src="Galeria/adidas5_mini.png" alt="Tenis Adidas Campus" /></a>
+                      <p>Tenis Adidas Campus</p> </div>
+      <p style="clear:both;"></p> 
+      <h3>Sudaderas</h3>
+           <div id="Sudadera Adidas Negro con Blanco" class="ficha"><a href="Galeria/adidas6.jpeg"><img src="Galeria/adidas6_mini.png" alt="Sudadera Adidas Negro con Blanco" /></a>
+                      <p>Sudadera Adidas Negro con Blanco</p> </div>
+           <div id="Sudadera Adidas Blanca" class="ficha"><a href="Galeria/adidas7.jpeg"><img src="Galeria/adidas7_mini.png" alt="Sudadera Adidas Blanca" /></a> 
+                      <p>Sudadera Adidas Blanca</p> </div>
+           <div id="Sudadera Adidas Blanca con Negro" class="ficha"><a href="Galeria/adidas8.jpeg"><img src="Galeria/adidas8_mini.png" alt="Sudadera Adidas Blanca con Negro" /></a>
+                      <p>Sudadera Adidas Blanca con Negro</p> </div>
+           <div id="Sudadera Adidas Blanca con Logo grande de la marca" class="ficha"><a href="Galeria/adidas9.jpeg"><img src="Galeria/adidas9_mini.png" alt="Sudadera Adidas Blanca con Logo grande de la marca" /></a> 
+                      <p>Sudadera Adidas Blanca con Logo grande de la marca</p> </div>
+	   <div id="Sudadera Adidas Azul con Blanco" class="ficha"><a href="Galeria/adidas10.jpeg"><img src="Galeria/adidas10_mini.png" alt="Sudadera Adidas Azul con Blanco" /></a> 
+                      <p>Sudadera Adidas Azul con Blanco</p> </div>
+       <p style="clear:both;"></p> 
+      <h3>Gorras</h3>
+           <div id="Gorra Adidas Blanca" class="ficha"><a href="Galeria/adidas11.jpeg"><img src="Galeria/adidas11_mini.png" alt="Gorra Adidas Blanca" /></a>
+                      <p>Gorra Adidas Blanca</p> </div>
+           <div id="Gorra Adidas Negra con el Logo blanco" class="ficha"><a href="Galeria/adidas12.jpeg"><img src="Galeria/adidas12_mini.png" alt="Gorra Adidas Negra con el Logo blanco" /></a> 
+                      <p>Gorra Adidas Negra con el Logo blanco</p> </div>
+           <div id="Gorra Adidas Blanco con Negro" class="ficha"><a href="Galeria/adidas13.jpeg"><img src="Galeria/adidas13_mini.png" alt="Gorra Adidas Blanco con Negro" /></a>
+                      <p>Gorra Adidas Blanco con Negro</p> </div>
+           <div id="Gorra Adidas Azul" class="ficha"><a href="Galeria/adidas14.jpeg"><img src="Galeria/adidas14_mini.png" alt="Gorra Adidas Azul" /></a> 
+                      <p>Gorra Adidas Azul</p> </div>
+	   <div id="Gorra Adidas Roja" class="ficha"><a href="Galeria/adidas15.jpeg"><img src="Galeria/adidas15_mini.png" alt="Gorra Adidas Roja" /></a> 
+                      <p>Gorra Adidas Roja</p> </div>
+       <p style="clear:both;"></p>
+</div>
+  <div>&copy; Todos los derechos reservados</div>
+ </body>
+ </html>
