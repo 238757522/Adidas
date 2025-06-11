@@ -1,6 +1,6 @@
-window.onload = fundation () {
-var replay = prompt ("Bienvenid@ ¿Cuál es tu nombre?", "" )
-altet ("Es un gusto tenerte aquí " + replay + " !" )
+window.onload = function () {
+var replay = prompt ("Bienvenid@ ¿Cuál es tu nombre?", "" );
+alert ("Es un gusto tenerte aquí " + replay + " !" );
 }
 let miBoton = document.querySelector('button');
 miButon.onclick = funtion() {
